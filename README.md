@@ -1,5 +1,3 @@
-當然，我可以幫你撰寫這兩個程式碼的 GitHub README 文件。以下是一個範本，你可以根據需要進行調整：
-
 ### Kohonen Self-Organizing Feature Map (SOFM)
 
 #### 摘要
