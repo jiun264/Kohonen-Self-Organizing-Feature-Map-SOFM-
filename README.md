@@ -11,7 +11,7 @@
 import numpy as np
 import pandas as pd
 
-# ... （省略了部分程式碼）
+# ... （省略部分程式碼）
 
 # 初始化 Kohonen 神經網路
 kohonen_layer = 5
@@ -34,7 +34,7 @@ print(k1.W)
 import numpy as np
 import pandas as pd
 
-# ... （省略了部分程式碼）
+# ... （省略部分程式碼）
 
 # 初始化 SOFM
 feature_dim = 13
@@ -53,7 +53,7 @@ print(sofm_output)
 print(sofm.labelgrid)
 ```
 
-### 可視化結果
+### 視覺化結果
 
 我們使用了 matplotlib 繪製了 SOFM 的熱力圖，顯示了每個單元格的輸出和相應的數字標籤。
 
@@ -61,7 +61,7 @@ print(sofm.labelgrid)
 # 在 prhw3.ipynb 中的程式碼片段
 import matplotlib.pyplot as plt
 
-# ... （省略了部分程式碼）
+# ... （省略部分程式碼）
 
 # 繪製SOFM輸出的熱力圖和標籤
 plt.subplot(1, 2, 1)
